@@ -1,5 +1,8 @@
 # Squadron 65 - Explore the 'Verse with Non-Standard Layouts
 
+![Alt text](https://private-user-images.githubusercontent.com/102598341/335454598-c3797e57-60d2-4f97-94b3-56dd0e91d703.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTcxMzM1MTQsIm5iZiI6MTcxNzEzMzIxNCwicGF0aCI6Ii8xMDI1OTgzNDEvMzM1NDU0NTk4LWMzNzk3ZTU3LTYwZDItNGY5Ny05NGIzLTU2ZGQwZTkxZDcwMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUzMVQwNTI2NTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNzc2MGJmMzAwMDA0NzE5NWM4ZGNkM2I4YTBmNDc0M2U0NTBkNDc4ZWI1NjVlYTA4Njk4ZDJiZGU0OGMwNzczJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.I-TKtRwWl5L0WAixRqOI6n0TzaJvCzP0AdiZy6MO2Qc)
+
+
 This is my personal CFG/binds for using a 65% keyboard and mouse with 4 side buttons.
 
 Most binds are left as default, with a few changes to make it easier for those with non-standard layouts). Of course, binds will still work on any keyboard regardless of form factor, just be sure to check your boards manual/key locations for anything smaller than 65%.
