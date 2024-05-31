@@ -4,9 +4,9 @@
 
 
 
-Binds for using a 65% keyboard and a mouse with 4 side buttons.
+Simple binds for using a 65%/60% keyboard and a mouse with 4 side buttons.
 
-Most binds are left as default, with a few changes to make it easier for those with non-standard layouts). Of course, binds will still work on any keyboard regardless of form factor, just be sure to check your boards manual/key locations for anything smaller than 65%.
+Most binds are left as default, with a few changes to make it easier for those with non-standard layouts). Of course, binds will still work on any keyboard regardless of form factor, just be sure to check your board's manual/key locations for anything smaller than 65%.
 
 
 ## How to Import Binds/CFG using SC Launch Configurator
@@ -16,7 +16,7 @@ Most binds are left as default, with a few changes to make it easier for those w
   3. Open SC Launch Configurator
   4. Launch Star Citizen to confirm your profile is generated, then close Star Citizen
   5. In SC Launch Configurator, go to "Profile" and **BACKUP/EXPORT YOUR PROFILE**
-  6. Import `Sq65 Binds.profiles` and install by clicking "LIVE" button to the right
+  6. Import `Sq65 Binds.profiles` and install by clicking the "LIVE" button to the right
 
 If you change your binds/settings in-game, you can update and backup your new profile in the SC Launch Configurator.
 
@@ -36,7 +36,7 @@ If you change your binds/settings in-game, you can update and backup your new pr
 
 
   ### Camera
-  Swapped Freelook and Third Person binds, as function keys are more difficult/cumbersome to reach with 65% keyboards and below.
+  Swapped Freelook and Third Person binds, as function keys are more difficult/cumbersome to reach without a dedicated function row.
   
   - `Z` Third Person
   - `F4` Freelook
