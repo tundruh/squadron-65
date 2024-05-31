@@ -3,9 +3,11 @@
 ![Alt text](https://private-user-images.githubusercontent.com/102598341/335454598-c3797e57-60d2-4f97-94b3-56dd0e91d703.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTcxMzM1MTQsIm5iZiI6MTcxNzEzMzIxNCwicGF0aCI6Ii8xMDI1OTgzNDEvMzM1NDU0NTk4LWMzNzk3ZTU3LTYwZDItNGY5Ny05NGIzLTU2ZGQwZTkxZDcwMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUzMVQwNTI2NTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNzc2MGJmMzAwMDA0NzE5NWM4ZGNkM2I4YTBmNDc0M2U0NTBkNDc4ZWI1NjVlYTA4Njk4ZDJiZGU0OGMwNzczJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.I-TKtRwWl5L0WAixRqOI6n0TzaJvCzP0AdiZy6MO2Qc)
 
 
+
 This is my personal CFG/binds for using a 65% keyboard and mouse with 4 side buttons.
 
 Most binds are left as default, with a few changes to make it easier for those with non-standard layouts). Of course, binds will still work on any keyboard regardless of form factor, just be sure to check your boards manual/key locations for anything smaller than 65%.
+
 
 ## How to Import Binds/CFG using SC Launch Configurator
 
@@ -18,7 +20,9 @@ Most binds are left as default, with a few changes to make it easier for those w
 
 If you choose to change binds/settings in game, feel free to update and backup your new profile in the SC Launch Configurator.
 
+
 **This profile is specific to my CFG/build, as I play on UW QHD. You may run the game with different settings in other menus (i.e General, Audio, Graphics, etc). Please back up your own settings before importing mine (see step 6 above). If your game does not launch due to errors in rendering/resolution, review your graphics settings either in game or in the SC Launch Configurator.**
+
 
 ## Changes
 
@@ -30,11 +34,13 @@ If you choose to change binds/settings in game, feel free to update and backup y
   - `F8` Engine Power (Tap to +, Hold to Max)
   - `F5` Reset Power
 
+
   ### Camera
   Swapped Freelook and Third Person binds, as function keys are more difficult/cumbersome to reach with 65% keyboards and below.
   
   - `Z` Third Person
   - `F4` Freelook
+
 
   ### Advanced Camera Controls
   
@@ -54,7 +60,8 @@ If you choose to change binds/settings in game, feel free to update and backup y
   - `Z + PgDn` Camera Pan Z axis (Down)
   - `Z + Del` Reset Camera Position
 
-Current as of LIVE 3.22.
+
+Current as of LIVE 3.22. **PENDING UPDATE FOR 3.23**
 
 
 # Credit
