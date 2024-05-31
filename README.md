@@ -4,7 +4,7 @@
 
 
 
-This is my personal CFG/binds for using a 65% keyboard and mouse with 4 side buttons.
+Binds for using a 65% keyboard and a mouse with 4 side buttons.
 
 Most binds are left as default, with a few changes to make it easier for those with non-standard layouts). Of course, binds will still work on any keyboard regardless of form factor, just be sure to check your boards manual/key locations for anything smaller than 65%.
 
@@ -18,16 +18,16 @@ Most binds are left as default, with a few changes to make it easier for those w
   5. In SC Launch Configurator, go to "Profile" and **BACKUP/EXPORT YOUR PROFILE**
   6. Import `Sq65 Binds.profiles` and install by clicking "LIVE" button to the right
 
-If you choose to change binds/settings in game, feel free to update and backup your new profile in the SC Launch Configurator.
+If you change your binds/settings in-game, you can update and backup your new profile in the SC Launch Configurator.
 
 
-**This profile is specific to my CFG/build, as I play on UW QHD. You may run the game with different settings in other menus (i.e General, Audio, Graphics, etc). Please back up your own settings before importing mine (see step 6 above). If your game does not launch due to errors in rendering/resolution, review your graphics settings either in game or in the SC Launch Configurator.**
+**This profile is specific to my CFG/build, as I play on UW QHD. You may run the game with different settings in other menus (i.e. General, Audio, Graphics, etc). Please back up your settings before importing mine (see step 6 above). If your game does not launch due to errors in rendering/resolution, review your graphics settings either in-game or in the SC Launch Configurator.**
 
 
 ## Changes
 
   ### Flight - Power Triangle Management
-  Based on Logitech GPW, but can be remapped to your mouse buttons if need be.
+  Based on Logitech GPW, but it can be remapped to your mouse buttons if need be.
   
   - `Mouse Button 5` Weapon Power (Tap to +, Hold to Max)
   - `Mouse Button 4` Shield Power (Tap to +, Hold to Max)
@@ -61,7 +61,7 @@ If you choose to change binds/settings in game, feel free to update and backup y
   - `Z + Del` Reset Camera Position
 
 
-Current as of LIVE 3.22. **PENDING UPDATE FOR 3.23**
+## **PENDING UPDATE FOR 3.23**
 
 
 # Credit
